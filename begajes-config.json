@@ -1,0 +1,20 @@
+{
+  "version": "2.1.0",
+  "kill": false,
+  "killMessage": "BEGEJES dinonaktifkan sementara oleh admin. Coba lagi nanti ya.",
+  "minVersion": "2.0.0",
+  "notice": "v2.1: drag diperbaiki, panel diperlebar, input dipresisi, dan aman dipakai bareng NEXUS (namespace terpisah).",
+  "status": "",
+  "features": {
+    "post": true,
+    "bulk": true,
+    "quote": true,
+    "profil": true,
+    "spoiler": true,
+    "pin": true,
+    "replyControl": true
+  },
+  "ui": {
+    "width": 560
+  }
+}
